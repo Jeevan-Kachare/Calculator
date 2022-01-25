@@ -1,0 +1,9 @@
+G:\CDAC\7.NET\Programme\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\CDAC\7.NET\Programme\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\CDAC\7.NET\Programme\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\CDAC\7.NET\Programme\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\CDAC\7.NET\Programme\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+G:\CDAC\7.NET\Programme\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\CDAC\7.NET\Programme\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\CDAC\7.NET\Programme\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\CDAC\7.NET\Programme\Calculator\Calculator\obj\Debug\Calculator.pdb
